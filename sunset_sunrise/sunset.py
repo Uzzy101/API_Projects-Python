@@ -1,8 +1,8 @@
 import requests
 from datetime import datetime
 
-my_lat = 50.0101203
-my_lng = -4.2231987
+my_lat = [Latitude]
+my_lng = [Longitude]
 
 
 
